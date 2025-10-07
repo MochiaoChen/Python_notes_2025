@@ -1,0 +1,2 @@
+# Python_notes_2025
+这是我在对外经贸开设Python与大数据分析红助的notes
