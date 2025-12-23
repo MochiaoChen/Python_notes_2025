@@ -4,7 +4,7 @@ from google import genai
 from google.genai import types
 from PIL import Image
 
-API_KEY = "AIzaSyCyf47lYhdBt6yf_wVP7l-jnE3AM14yCoM"
+API_KEY = "YOURAPIKEY"
 
 IMAGE_FOLDER = "/home/mochiao/code/Python_notes_2025/hdrt/Img/0"
 
